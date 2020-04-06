@@ -1,2 +1,2 @@
-# arunram.krish-gmail.com
-data-analysis
+# A sample project for data analysis
+Extract, transform and load data
