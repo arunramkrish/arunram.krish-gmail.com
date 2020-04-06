@@ -2,13 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="667ae89c-00e6-431d-a4f3-cb170bf7a672" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregator/Aggregator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/aggregator/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/dao/DbLoader.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model/EmployeeAggregate.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/AggregatorTest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +15,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Python Script" />
+        <option value="Python Unit Test" />
       </list>
     </option>
   </component>
